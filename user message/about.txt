@@ -1,0 +1,3 @@
+Input dialog
+Input dialog activity is used to get input from user it appeares like a pop up box and stores the user
+input.
